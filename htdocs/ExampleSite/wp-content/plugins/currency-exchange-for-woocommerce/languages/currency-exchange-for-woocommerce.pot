@@ -1,0 +1,224 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Exchange for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-10 09:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1"
+
+#: includes/widget.php:67
+msgid "&nbsp;"
+msgstr ""
+
+#: main.php:163
+msgid ""
+"<strong>Please update all BeRocket plugins to the most recent version. "
+"Currency Exchange for WooCommerce is not working correctly with older "
+"versions.</strong>"
+msgstr ""
+
+#: templates/currency_list.php:4
+msgid "Additional currencies"
+msgstr ""
+
+#: main.php:620
+msgid "App ID is required for this currency rate site"
+msgstr ""
+
+#: main.php:615
+msgid "App ID: "
+msgstr ""
+
+#: main.php:518
+msgid "Auto update each 24 hours and after WooCommerce currency changes"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#: main.php:484
+msgid "Currencies"
+msgstr ""
+
+#: templates/currency_list.php:45
+msgid "Currency custom text"
+msgstr ""
+
+#: main.php:49
+msgid "Currency Exchange"
+msgstr ""
+
+#. Name of the plugin
+#: main.php:48
+msgid "Currency Exchange for WooCommerce"
+msgstr ""
+
+#: templates/currency_list.php:39
+msgid "Currency exchange rate"
+msgstr ""
+
+#: templates/currency_list.php:49
+msgid "Currency image"
+msgstr ""
+
+#: main.php:511
+msgid "Currency in profile"
+msgstr ""
+
+#: includes/rates_api.php:24
+msgid "CurrencyLayer"
+msgstr ""
+
+#: includes/widget.php:63
+msgid "Custom"
+msgstr ""
+
+#: main.php:488
+msgid "Custom CSS/JavaScript"
+msgstr ""
+
+#: main.php:544
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: main.php:548
+msgid ""
+"Don't load Font Awesome css files on site front end. Use it only if you "
+"don't use Font Awesome icons in widgets or your theme has Font Awesome."
+msgstr ""
+
+#: templates/currency_list.php:12
+msgid "Enabled only"
+msgstr ""
+
+#: main.php:517
+msgid "Exchange Rates"
+msgstr ""
+
+#: includes/rates_api.php:33
+msgid "Fixer.io"
+msgstr ""
+
+#: includes/widget.php:64
+msgid "Flag"
+msgstr ""
+
+#: includes/rates_api.php:42
+msgid "FloatRates"
+msgstr ""
+
+#: main.php:555
+msgid "Font Awesome 4"
+msgstr ""
+
+#: main.php:556
+msgid "Font Awesome 5"
+msgstr ""
+
+#: main.php:551
+msgid "Font Awesome Version"
+msgstr ""
+
+#: main.php:480
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://berocket.com/product/woocommerce-currency-exchange"
+msgstr ""
+
+#: includes/widget.php:66
+msgid "Image"
+msgstr ""
+
+#: main.php:580
+msgid "JavaScript After Language Set"
+msgstr ""
+
+#: main.php:574
+msgid "JavaScript Before Language Set"
+msgstr ""
+
+#: main.php:568
+msgid "JavaScript On Page Load"
+msgstr ""
+
+#: main.php:493
+msgid "License"
+msgstr ""
+
+#: main.php:528
+msgid "Multiplier"
+msgstr ""
+
+#: main.php:529
+msgid "Multiply all exchange rates by this value: "
+msgstr ""
+
+#: includes/rates_api.php:15
+msgid "Open Exchange Rates"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for WooCommerce which add currency exchange to your shop"
+msgstr ""
+
+#: includes/widget.php:56
+msgid "Radio"
+msgstr ""
+
+#: templates/currency_list.php:7
+msgid "Search:"
+msgstr ""
+
+#: includes/widget.php:55
+msgid "Select"
+msgstr ""
+
+#: main.php:394
+msgid "Shop currency"
+msgstr ""
+
+#: main.php:595
+msgid "Site for currency load"
+msgstr ""
+
+#: includes/widget.php:65
+msgid "Symbol"
+msgstr ""
+
+#: includes/widget.php:62
+msgid "Text"
+msgstr ""
+
+#: main.php:624
+msgid "Update Rates"
+msgstr ""
+
+#: main.php:505
+msgid "Use IP to detect currency"
+msgstr ""
+
+#: main.php:559
+msgid ""
+"Version of Font Awesome that will be used on front end. Please select "
+"version that you have in your theme"
+msgstr ""
+
+#: main.php:499
+msgid "Visual only"
+msgstr ""

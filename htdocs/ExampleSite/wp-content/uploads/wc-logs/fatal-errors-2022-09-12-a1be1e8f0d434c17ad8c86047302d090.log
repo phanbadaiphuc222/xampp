@@ -1,0 +1,50 @@
+2022-09-12T08:39:54+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php:101
+Stack trace:
+#0 C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\currencyr.php(31): Currencyr->__construct()
+#1 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(2313): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('currencyr/curre...')
+#3 C:\xampp\htdocs\ExampleSite\wp-admin\plugins.php(58): activate_plugin('currencyr/curre...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php on line 101
+
+2022-09-12T08:40:00+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php:101
+Stack trace:
+#0 C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\currencyr.php(31): Currencyr->__construct()
+#1 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(2313): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ExampleSite\wp-admin\plugins.php(192): plugin_sandbox_scrape('currencyr/curre...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php on line 101
+
+2022-09-12T08:40:00+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php:101
+Stack trace:
+#0 C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\currencyr.php(31): Currencyr->__construct()
+#1 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(2313): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ExampleSite\wp-admin\plugins.php(192): plugin_sandbox_scrape('currencyr/curre...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php on line 101
+
+2022-09-12T08:40:41+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php:101
+Stack trace:
+#0 C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\currencyr.php(31): Currencyr->__construct()
+#1 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(2313): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('currencyr/curre...')
+#3 C:\xampp\htdocs\ExampleSite\wp-admin\plugins.php(58): activate_plugin('currencyr/curre...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php on line 101
+
+2022-09-12T08:40:46+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php:101
+Stack trace:
+#0 C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\currencyr.php(31): Currencyr->__construct()
+#1 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(2313): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ExampleSite\wp-admin\plugins.php(192): plugin_sandbox_scrape('currencyr/curre...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php on line 101
+
+2022-09-12T08:40:46+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php:101
+Stack trace:
+#0 C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\currencyr.php(31): Currencyr->__construct()
+#1 C:\xampp\htdocs\ExampleSite\wp-admin\includes\plugin.php(2313): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ExampleSite\wp-admin\plugins.php(192): plugin_sandbox_scrape('currencyr/curre...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ExampleSite\wp-content\plugins\currencyr\libs\class-currencyr.php on line 101
+

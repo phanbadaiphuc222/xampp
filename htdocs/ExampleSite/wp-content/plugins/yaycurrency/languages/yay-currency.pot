@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: YayCurrency\n"
+"POT-Creation-Date: 2021-12-10 17:27+0700\n"
+"PO-Revision-Date: 2021-12-10 17:27+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: yay-currency.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/Fallback.php:11
+msgid ""
+"It looks like you have another YayCurrency version installed, please delete "
+"it before activating this new version. All of the settings and data are "
+"still preserved."
+msgstr ""
+
+#: includes/Fallback.php:12
+msgid "Read more details."
+msgstr ""
+
+#: includes/MenuDropdown.php:135
+msgid "YayCurrency Switcher"
+msgstr ""
+
+#. translators: %s: Woocommerce link
+#: includes/Plugin.php:23
+#, php-format
+msgid ""
+"YayCurrency is enabled but not effective. It requires %s in order to work"
+msgstr ""
+
+#: includes/PostType.php:28
+msgid "Currencies Manage"
+msgstr ""
+
+#: includes/PostType.php:29 includes/PostType.php:34
+msgid "Currency Manage"
+msgstr ""
+
+#: includes/Settings.php:374
+msgid "Configure multi-currency"
+msgstr ""
+
+#: includes/Settings.php:374
+msgid "The following options affect how prices are displayed on the frontend"
+msgstr ""
+
+#: includes/Settings.php:384
+msgid "Docs"
+msgstr ""
+
+#: includes/Settings.php:385
+msgid "Visit community forums"
+msgstr ""
+
+#: includes/Settings.php:385
+msgid "Support"
+msgstr ""
+
+#: includes/Settings.php:393
+msgid "Go Pro"
+msgstr ""
+
+#: includes/Settings.php:396
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/Settings.php:404 includes/Settings.php:405
+msgid "YayCurrency"
+msgstr ""
+
+#: includes/SingleProductDropdown.php:88
+msgid "Currency:"
+msgstr ""
+
+#: includes/Widget.php:119
+msgid "Currency Switcher"
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:145
+msgid "Sorry! This Paypal payment method for "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:317
+msgid " and a "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:334
+msgid "From: "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:473
+msgid "Refund"
+msgstr ""
+
+#. translators: %s: method
+#: includes/WooCommerceCurrency.php:699
+#, php-format
+msgid "via %s"
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:704
+msgid "Free!"
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:956
+msgid ""
+"You're using the maximum number of currencies in the YayCurrency lite "
+"version. Please delete one of them so that you can add another."
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:1104 includes/WooCommerceCurrency.php:1107
+msgid "The current payment method for "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:1104 includes/WooCommerceCurrency.php:1107
+msgid " is not supported in your location. "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:1104 includes/WooCommerceCurrency.php:1107
+msgid "So your payment will be recorded in "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:1105
+msgid ""
+"Are you the admin? You can change the checkout options for payment methods "
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:1105
+msgid "here"
+msgstr ""
+
+#: includes/WooCommerceCurrency.php:1105
+msgid "(Only logged in admin can see this.)"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:202
+msgid "Top Categories - Items Sold"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:205
+msgid "Category"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:208
+#: includes/WooCommerceFilterAnalytics.php:285
+msgid "Items Sold"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:211
+#: includes/WooCommerceFilterAnalytics.php:288
+msgid "Net Sales"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:279
+msgid "Top Products - Items Sold"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:282
+msgid "Product"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:355
+msgid "Top Coupons - Number of Orders"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:358
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:361
+#: includes/WooCommerceFilterAnalytics.php:435
+msgid "Orders"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:364
+msgid "Amount Discounted"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:429
+msgid "Top Customers - Total Spend"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:432
+msgid "Customer Name"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:438
+msgid "Total Spend"
+msgstr ""
+
+#: includes/WooCommerceFilterAnalytics.php:502
+msgid "("
+msgstr ""
+
+#: includes/WooCommerceFilterReport.php:65
+msgid "Sales by currency:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yaycommerce.com/yaycurrency-woocommerce-multi-currency-switcher/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provide multiple currencies for WooCommerce. Let your potential customers "
+"switch currency on the go."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YayCommerce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yaycommerce.com"
+msgstr ""

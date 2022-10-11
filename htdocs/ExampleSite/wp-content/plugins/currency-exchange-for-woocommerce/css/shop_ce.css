@@ -1,0 +1,210 @@
+.br_ce_image_currency{
+    cursor: pointer;
+    display: inline-block!important;
+}
+.br_ce_image_currency input{
+    display: none!important;
+}
+.br_ce_image_currency img{
+    padding: 10%;
+}
+.br_ce_image_currency input:checked + img{
+    background-color: rgba(0,0,125, 0.5);
+}
+.brjsf_ce_ready {
+    display: none!important;
+}
+.brjsf_ce_select {
+    display: inline-block!important;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 3px;
+    cursor: pointer;
+    position: relative;
+    background-color: white;
+    width: 100%;
+    box-sizing: border-box;
+}
+.brjsf_ce_select .brjsf_ce_text {
+    width: 100%;
+    overflow: hidden;
+    display: inline-block!important;
+    box-sizing: border-box;
+    border-right: 1em solid transparent;
+    line-height: 1.3em;
+}
+.brjsf_ce_select .fa{
+    line-height: 1.5em;
+    position: absolute;
+    right: 5px;
+    top: 0.3em;
+    vertical-align: middle;
+}
+.brjsf_ce_select.brjsf_ce_show ul {
+    display: block!important;
+}
+.brjsf_ce_select ul {
+    display: none!important;
+    list-style: none;
+    position: absolute;
+    top: 100%;
+    left: -1px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 0;
+    margin: 0!important;
+    min-width: 100%;
+    background-color: white;
+    z-index: 99999!important;
+    max-height: 200px!important;
+    overflow: auto!important;
+    overflow-y: auto!important;
+    overflow-x: hidden!important;
+}
+.brjsf_ce_select ul li {
+    padding: 3px;
+}
+.brjsf_ce_select ul li:hover {
+    background-color: #DDF;
+}
+.brjsf_ce_select img{
+    max-height: 32px;
+}
+
+
+/* FLOATING BARs STYLES */
+
+.brjsf_ce_floating_bar {
+    position: fixed;
+    right: -250px;
+    top: 50vh;
+    transform: translateY(-50%);
+    width: 300px;
+    background-color: transparent;
+    box-sizing: border-box;
+    z-index: 99999;
+    transition: all 0.3s;
+}
+.brjsf_ce_floating_bar:hover,
+.brjsf_ce_floating_bar:focus{
+    right: 0;
+}
+
+.brjsf_ce_floating_bar * {
+    box-sizing: border-box;
+}
+
+.brjsf_ce_floating_bar .floating_bar_title,
+.brjsf_ce_floating_bar .floating_bar_currencies > div {
+    background-color: white;
+    color: #666666;
+    margin-bottom: 4px !important;
+    border: 1px solid #666666;
+}
+.brjsf_ce_floating_bar .floating_bar_title .widget-title {
+    padding: 10px !important;
+    margin: 0 !important;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: normal;
+}
+.brjsf_ce_floating_bar .floating_bar_title {
+    opacity: 0;
+    transition: all 0.3s;
+    height: 52px;
+    background-color: #666666;
+    color: white;
+    font-size: 20px;
+}
+
+.brjsf_ce_floating_bar .floating_bar_title * {
+    background-color: #666666!important;
+    color: white!important;
+    font-size: 20px!important;
+    line-height: 32px !important;
+    float: none !important;
+    margin: 0 !important;
+    text-align: center !important;
+    height: 32px !important;
+    font-weight: normal !important;
+}
+.brjsf_ce_floating_bar:hover .floating_bar_title,
+.brjsf_ce_floating_bar:focus .floating_bar_title{
+    opacity: 1;
+}
+.brjsf_ce_floating_bar .floating_bar_currencies > div.brjsf_ce_checked {
+    background-color: #666666;
+    color: white;
+    transition: all 0.3s;
+}
+.brjsf_ce_floating_bar:hover .floating_bar_currencies > div.brjsf_ce_checked {
+    background-color: white;
+    color: #666666;
+}
+
+.brjsf_ce_floating_bar .floating_bar_currencies label {
+    line-height: 32px;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+    height: 52px;
+    display: block;
+    font-size: 14px !important;
+    width: 100% !important;
+    float: none !important;
+    margin: 0 !important;
+}
+.brjsf_ce_floating_bar .floating_bar_currencies label input {
+    display: none;
+}
+.brjsf_ce_floating_bar .floating_bar_currencies label img {
+    display: inline !important;
+}
+.brjsf_ce_floating_bar .floating_bar_currencies label span.cur_holder {
+    display: block;
+    float: left;
+    line-height: 32px;
+    text-align: center;
+    width: 32px;
+    font-weight: normal !important;
+    margin: 0 10px 0 0 !important;
+    font-size: 14px !important;
+}
+.brjsf_ce_floating_bar .floating_bar_currencies label span.cur_content {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: normal !important;
+    font-size: 14px !important;
+}
+
+.widget_berocket_ce_widget.no-presence {
+    height: 0!important;
+    width: 0!important;
+    margin: 0!important;
+    padding: 0!important;
+}
+
+@media screen and (max-width: 768px){
+    .brjsf_ce_floating_bar {
+        right: -260px;
+    }
+    .brjsf_ce_floating_bar .floating_bar_title * {
+        font-size: 16px!important;
+    }
+    .brjsf_ce_floating_bar .floating_bar_title .widget-title,
+    .brjsf_ce_floating_bar .floating_bar_currencies label {
+        padding: 4px!important;
+        height: 40px!important;
+    }
+    .brjsf_ce_floating_bar .floating_bar_title {
+        height: 40px!important;
+    }
+    .brjsf_ce_floating_bar .floating_bar_currencies label span.cur_holder {
+        margin-right: 4px!important;
+        font-size: 13px !important;
+    }
+    .brjsf_ce_floating_bar .floating_bar_currencies label span.cur_content {
+        font-size: 13px !important;
+    }
+}

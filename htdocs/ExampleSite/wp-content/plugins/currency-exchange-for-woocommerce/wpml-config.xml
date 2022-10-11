@@ -1,0 +1,10 @@
+<wpml-config>
+    <shortcodes>
+        <shortcode>
+            <tag>br_currency_exchange</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>
